@@ -5,10 +5,13 @@ import json
 
 terms = {}
 
-def add_term():
-    term = input("Enter a term: ")
-    definition = input("Enter the definition: ")
-    terms[term] = definition
+def add_terms():
+    while True:
+        term = input("Enter a term (or 'q' to quit adding terms): ")
+        if term == 'q':
+            break
+        definition = input("Enter the definition: ")
+        terms[term] = definition
 
 def save_terms(filename):
     with open(filename, 'w') as file:
