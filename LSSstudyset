@@ -1,0 +1,160 @@
+Deming PDCA Cycle ;1) Plan, 2) Do, 3) Check/Study 4) Act ... continue cycle
+Motorola ;created six sigma in the 80s
+Bill Smith ;From Motorola, considered the "father of six sigma"
+Mikel Harry ;Creator of the DMAIC Process, Deployment tactics ("Belts")
+Honeywell ;Company that had the fastest implementation of six sigma
+GE ;added Jack Welch's 4Es and 1P
+Energy, Energize, Edge, Execute, Passion ;Jack Welch's 4Es and 1P
+Healthcare, financial, education, government ;Other industries that adopt six sigma principles
+six sigma ;sets a performance for everyone
+six sigma ;enhance value to customer stakeholders
+six sigma ;overall strategy to accelerate improvements in process, products and services
+six sigma ;measurement of how effective strategies are in eliminating defects and variations from processes, products and services
+sigma ;statistical unit of measure that reflects process capability
+reduction increases ;There is a significant _________ in defects when the sigma number _________________
+sigma scale ;perfectly correlated to defects per unit, parts per million defective, yield and probability of a failure/error
+six sigma improvement methodology ;helps to identify and reduce/eliminate sources of variation
+lean ;umbrella program to create value to the customer by eliminating waste
+criteria for project selection ;Results on business, Feasibility, Organizational impact criteria
+variation mean ;customers feel the _________ not the __________
+common/controlled variation ;normal "bouncing around" of any process/machine, need to modify process/technology to reduce
+special/assignable cause ;uncontrolled variation, due to an "assignable" input
+components of variation ;common/controlled cause and special/assignable cause
+Define, Measure, Analyze, Improve, control ;six sigma process improvement methodology phases
+Foundation of lean ;training within industry, origin of japanese management and kaizen
+4P model of TPS ;toyota product system, (top to bottom) 1) problem solving, 2) people and partners 3) process, 4) philosophy
+Problem solving ;top of 4p model, continuous improvement and learning, the dynamic of the toyota way
+People and partners ;2 to top of 4p model, respect, challenge and grow relationships, the heart and soul of toyota way
+process ;3 to top of 4p model, eliminate waste, eliminate waste through flow and standardization
+philosophy ;bottom of 4p model, long-term thinking, adding value to customers and society
+lean principles ;1) specify value in the eyes of the customer, 2) identify value stream and eliminate waste, 3) make value flow 4) allow the customer to pull 5) continuously improve in pursuit of perfection
+concept of lean ;cadence (beat of movement), flow (smooth uninterrupted movement), balance (arrange so one set equals another), synchronization, flexibility
+define phase ;identify business improvement opportunity, define critical customer requirements, map high level processes and value stream map and build effective team
+2 elements to closed loop business ;1) finding out which x variables have the most influence on y variables, 2) company must use changes in y variables to regulate organization and keep it running right
+problem/opportunity definition ;complete and detailed description of the problem that needs to be solved or a potential opportunity that needs to be exploited (should not contain causes or solutions and should remain focused on the problem or opportunity)
+CTQ ;Critical to Quality: represents the characteristics or specifications of the products necessary to meet the wants and needs of the customer - CTQs align the design function with the VOC
+CTS ;Critical to Satisfaction
+CTD ;Critical to delivery
+CTC ;critical to cost
+key measureable ;the ______ to critical to satisfaction issues is to make them ___________
+ask the customer ;direct contact a small representative group
+performance scorecards ;received requests or demands
+kano model ;listen to the voice of the customer
+VOC ;voice of the customer
+QFD ;quality function deployment
+quality function deployment ;"house of quality", a process for product planning and development in which the key customer wants and needs are deployed throughout the organization in all stages of the product development
+Lean principle 1 ;specify value in the eyes of the customer
+value added activities ;activities customers are willing to pay for because customers believe the activities add value to the finished good or service
+non value added activities ;activities that neither enhance the customer's image of the product or service nor provide a competitive advantage; also known as waste activities
+project boundaries ;well defined begin and end points used to prevent scope creep
+big y ;projects, actions and tasks always come back to the process of : output (y) equals some function of all the inputs (x's)
+brainstorming ;a way of generating radiacal ideas, criticism and judgement cramp creativity
+affinity diagrams ;essential when facts or thoughts are uncertain and need to be organized, when ideas need to be clarified and when unity within a team needs to be created
+typical six sigma performance metrics ;defects per unit (DPU), first time yield, parts per million (PPM), defects per million opportunities (DPMO), rolled throughput yield
+first time yield ;total number of units that get through an operation without being reworked or scarped divided by the total number of units
+rolled throughput yield ;product of first time yields of all steps in a process, also the probability of zero defects through all steps of a process
+typical lean measurements ;lead time, process time, cycle time, queue time, throughput time, set up time
+95% ;typically _______ of total lead time is non-value added
+takt time ;heartbeat of lean, the tool to link production to the customer by matching the pace of production, available time/customer demand
+less ;cycle time must always be ______ than takt time
+number of operators ;total work content/takt time
+thought map ;t-map, graphical representation of your thought process and approach to assist you in satisfying your project goals
+project charter ;official record of each project
+supplier input process output customer ;SIPOC, form of process mapping
+critical, controllable, sop and noise ;four classifications of process inputs
+project objectives ;what the project is trying to accomplish (in measurable terms)
+smart goals ;specific, measureable, attainable, relevant, timely
+lean principle 2 ;identify value stream
+value stream ;consists of all actions required to complete a product or service (clearly add value)
+type one muda ;add no value but cannot be avoided
+type two muda ;add value but can be avoided
+value stream mapping ;method of visually mapping the sequence and movement of materials, production activities and information
+three main parts of value stream ;1) flow of materials 2) transformation of raw materials into finished goods 3) flow of information
+not value stream map ;flowcharts, based on engineering standards, once a year planning session
+Benefits of Value stream mapping ;see across functional boundaries over which a product's value stream flows, understand the linkage between info flow and material flow, ties lean concepts and techniques, avoids cherry picking, improve customer response time, focus on understanding improvement efforts
+step 1 in current state vsm ;draw customer and data box
+step 2 in current state vsm ;draw basic production process and collect data
+step 3 in current state vsm ;draw inventory triangles and where material stops
+step 4 in current state vsm ;draw in delivery modes, quantities, and frequencies for customer shipments
+step 5 in current state vsm ;add suppliers, related data box, and delivery details
+step 6 in current state vsm ;insert production control as a process box, add narrow lines to represent information flow
+step 7 in current state vsm ;The flow of information that supports and directs both the flow of materials and the transformation of raw materials into finished goods
+step 8 in current state vsm ;Draw a striped arrow between operations where push movement exists
+step 9 in current state vsm ;Draw a timeline under the process boxes and inventory triangles to compile the production lead time and processing time
+classical tools of quality control ;tally sheet, histogram, pareto, cause and effect diagram, basic flowchart, scatter diagram, control chart
+pareto chart ;to organize and prioritize data from highest to lowest, proves 20% of problems cause 80% of impact
+6Ms ;method, mother nature, machine, man, material and measurement
+cause and effect diagram ;used to group items, similar to affinity diagram, inputs can be sorted into 6 categories (6ms)
+Theory of constraint ;A specific approach used to identify and manage constraints in order to achieve the company's goals.
+constraint in theory of constraints ;any factor that limits the performance of a system with respect to its goal
+no faster, smallest ;a process is __________ than its __________ bottleneck
+measure phase ;determine what to measure, manage measurement data collection, develop and validate measurement systems and determine the current process and value stream performance
+variation ;prevents the operation of a balanced factory at 100% capacity
+attribute/discrete data ;qualitative, consists of categories that cannot be subdivided (yes/no, pass/fail, number of defects) (data on the count)
+variable/continuous data ;quantitative showing absolute distance between numbers, can be subdivided (data on the variety of counts)
+Process Capability ;the ability of the process to meet the design specifications for a service or product
+process behavior ;plotting multiple data points for the same variable over time
+normal distribution ;It is an approximation of how the data might look if an infinite number of data points were collected
+mean and standard deviation ;processes can be characterized by their ________________
+normal distribution ;most processes in the world would result in
+one standard deviation ;68% of population
+two standard deviations ;95% of the population
+three standard deviation ;99.7%
+measurement system evaluation ;quantitative assessment of the tools and process used in making data observations (taking actual measurements
+Observed Process Variation ;made up of the Actual Process Variation and the Measurement Variation. To address actual process variability, the variation due to the measurement system must first be identified and separated from that of the process.
+repeatability and reproducibility ;primary contributors to measurement error
+repeatability ;(gage) The variation in measurements obtained when same person takes repeated measurements on the same parts measuring the same characteristic and using the identical instrument.
+reproducibility ;(operator) The variation in measurements obtained when multiple persons take repeated measurements on the same parts measuring the same characteristic and using the identical instrument.
+COPQ ;Cost of Poor Quality:
+Projects that are aimed at eliminating rework that is generally difficult to measure, but is financially significant
+process mapping ;a type of flowcharting that pictorially represents the activities occurring within an existing business process, used to help ensure that all factors that can cause variation and defects have been identified
+tribal knowledge ;represents whats good and bad about a process
+waste ;anything other than the minimum amount of equipment, materials, parts, space and workers time which are absolutely essential to add value to the product or service
+COMMWIP ;Correction, Overproduction, Motion, Material Movement, Waiting, Inventory, and Processing
+workplace organization ;5S's, sort, set in order, shine, standardize, sustain
+spaghetti diagram ;A visual depiction of the actual flow of people, paper, material or information in a work process.
+analyze phase ;understand the sources for variation and waste, identify potential root causes, and stratify and analyze the opportunities for imporvement
+deciding what chart to use ;1) type of data present 2) what is counted
+c chart ;control chart for attributes, used to monitor the number of defects per unit (attribute to defect to constant sample size)
+u chart ;Tracks the count of defects for a variable sample size of an attribute (attribute to defect to variable sample size)
+p or np chart ;attribute data to defective to constant (n >= 50)
+p chart ;control chart for attributes, used to monitor the proportion of defective items in a process (attribute data to defective to variable (n >= 50))
+i&mr chart ;individuals and moving range, variable data to individuals
+x-bar chart ;A control chart used to monitor changes in the mean value of a process.
+r chart ;a chart used to monitor process variability
+s chart ;Control chart that tracks sample standard deviations
+x bar and r chart ;a technique used to monitor the mean and range values for samples of variable data describing a process output
+x bar and s chart ;uses all the observations which makes it more sensitive than R chart that uses only two points, the largest point and smallest point, more precise dispersion
+causal analysis ;relations diagram, cause and effect diagram, cause and effect matrix, failure modes and effects analysis
+push pull systems ;The concept of pull in Lean production means to respond to the pull, or demand, of the customer.
+push ;Resources are provided to the consumer based on forecasts or schedules Controlling the flow of resources by replacing only what has been consumed
+pull ;Controlling the flow of resources by replacing only what has been consumed
+supermarket ;pull production technique, Materials in a supermarket are pulled off the "shelves" by the "customer", A supply of parts are stored near the cell / line and as these parts are used, they are replenished by the upstream process
+pitch ;how often work is released and monitored, takt time*pitch batch size
+8 questions regarding value stream ;1) what is takt time? 2) produce to shipping or supermarket? 3) where can continuous flow be introduced? 4) where do we need to use supermarket pull systems? 5) what point will we schedule production 6) how do we level production at the pacemaker process 7) what increment of work will we release and take away the pacemaker process 8) what process improvements will be necessary to implement changes
+heijunka ;the leveling of production load by both volume and product mix
+hoshin planning ;an Executive-level process for developing and achieving business plans, whereby the plan and its related goals are deployed throughout the organization. The focus is on strategic, breakthrough priorities, developing appropriate implementation plans for all to follow, and deploying those plans throughout the organization.
+improve phase ;The fourth phase of the DMAIC process that focuses on identifying opportunities and implementing solutions.
+improve phase steps ;1) generate creative solution ideas, 2) select a solution, 3) pilot test, 4) implement full scale
+improved FMEA ;We can improve the rate of occurrence and our detection ability, but the severity rating can only change if the customers change their expectations/ requirements
+force field analysis ;A technique for determining which forces drive a proposed change and which forces restrain it.
+impact/effort matric ;provides a visually graphic depiction of the trade-offs between the impact that an alternative will probably have toward resolving the problem, and the effort required
+kanban ;A Japanese word meaning "card" or "visible record" that refers to cards used to control the flow of production through a factory
+quality at the source ;development of a proactive culture is needed in quality at the source, and a mind-set of error prevention ratherthan reaction to problems should be taught. It is an approach to quality that places the responsibility for preventing or detecting errors inthe hands of the operator, or at the point of build
+changeover time ;The time elapsed between when the last good piece of product A comes off and the first good piece of productB starts.
+quick changeover ;A rapid and efficient way of converting a process from running the current product to running the next product.It reduces the waste of inventory by creating shorter production runs that better align with customer demand
+internal elements ;operations that must be performed while the machine/process is stopped
+external elements ;operations that can be performed while the machine/process is running
+single minute exchange of die ;focuses on converting INTERNAL to EXTERNAL activities and creating more machine run time.
+Mistake Proofing (aka Poka Yoke) ;To consciously and diligently try to eliminate defects by preventing human errors before they occur or create alarms to warn of potential defects, using ingenuity to create devices that allow us to do our job 100% error free 100% of the time
+total productive maintenance (TPM) ;Preventive maintenance plus continuing efforts to adapt, modify, and refine equipment to increase flexibility, reduce material handling, and promote continuous flows. It is operator-oriented maintenance with the involvement of all qualified employees in all maintenance activities.
+overall equipment effectiveness ;OEE = Availability x Performance x Quality, a synthetic rate build upon three components, featuring three "dimensions"
+lean principle 5 ;continuously improve in the pursuit of perfection
+Control phase ;To guarantee process and value stream improvements are maintained,disseminate lessons learned, and identify standardization opportunities
+kaizen ;Continuous Incremental Improvement of products, processes, or services over time, with the goal of reducing waste to improveworkplace functionality, customer service, or product performance.
+Kaikaku ;radical improvement
+transition to the process owners ;If the adequate controls are not in place prior to turning the process back to its owners, the time and effort spent making the improvements are simply wasted.
+RASCI model ;Responsible, Accountable, Supportive, Consulted, Informed
+leader standard work ;• A list of the normal tasks that must be done to sustain the Lean Management System • Tasks include audits, meetings (daily accountability) and continuous improvement projects • Focuses on the production process • Directs the leader to check on the visual controls • Expected to be continually improved
+visual management ;A system that enables us to recognize the standard and any deviation from it, thus corrective actions can be taken immediately. In a LEAN Six Sigma environment, process problems and abnormalities should be apparent to even a casual observer.
+six sigma belts ;yellow belt, green belt, black belt, master black belt
