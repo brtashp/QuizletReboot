@@ -16,11 +16,15 @@ game_speed = 10
 black = (0, 0, 0)
 green = (0, 255, 0)
 red = (255, 0, 0)
+white = (255, 255, 255)
 
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('Snake.io Game')
 
 clock = pygame.time.Clock()
+
+# Font for menus
+font = pygame.font.SysFont('arial', 35)
 
 # Snake initialization
 snake_pos = [[grid_width//2, grid_height//2]]
@@ -30,8 +34,49 @@ snake_new_direction = snake_direction
 # Food initialization
 food_pos = [random.randint(0, grid_width-1), random.randint(0, grid_height-1)]
 
+def draw_text(text, color, x, y):
+    text_obj = font.render(text, True, color)
+    text_rect = text_obj.get_rect(center=(x, y))
+    screen.blit(text_obj, text_rect)
+
+def start_menu():
+    menu_running = True
+    while menu_running:
+        screen.fill(black)
+        draw_text("Press SPACE to start or Q to quit", white, screen_width // 2, screen_height // 2)
+        pygame.display.update()
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+                sys.exit()
+            if event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_SPACE:
+                    menu_running = False  # Exit the menu if SPACE is pressed
+                elif event.key == pygame.K_q:
+                    pygame.quit()
+                    sys.exit()  # Exit the game if Q is pressed
+
+def pause_menu():
+    paused = True
+    while paused:
+        screen.fill(black)
+        draw_text("Paused. Press 'P' to continue", white, screen_width // 2, screen_height // 2)
+        pygame.display.update()
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+                sys.exit()
+            if event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_p:
+                    paused = False
+
+# initializing start menu 
+start_menu()
+
 # Main game loop
 running = True
+pause = False 
+
 while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
